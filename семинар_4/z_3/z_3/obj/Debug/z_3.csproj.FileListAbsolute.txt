@@ -1,0 +1,7 @@
+C:\Users\ku140\Desktop\семинар_4\z_3\z_3\bin\Debug\z_3.exe.config
+C:\Users\ku140\Desktop\семинар_4\z_3\z_3\bin\Debug\z_3.exe
+C:\Users\ku140\Desktop\семинар_4\z_3\z_3\bin\Debug\z_3.pdb
+C:\Users\ku140\Desktop\семинар_4\z_3\z_3\obj\Debug\z_3.csproj.AssemblyReference.cache
+C:\Users\ku140\Desktop\семинар_4\z_3\z_3\obj\Debug\z_3.csproj.CoreCompileInputs.cache
+C:\Users\ku140\Desktop\семинар_4\z_3\z_3\obj\Debug\z_3.exe
+C:\Users\ku140\Desktop\семинар_4\z_3\z_3\obj\Debug\z_3.pdb
